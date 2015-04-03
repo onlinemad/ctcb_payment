@@ -6,7 +6,18 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Ian Wu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onlinemad/skipper-gcs.git"
+  },
+  "keywords": [
+    "ctbc"
+  ],
+  "author": "Ian Wu <onlinemad@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/onlinemad/ctcb_payment/issues"
+  },
+  "homepage": "https://github.com/onlinemad/ctcb_payment",
   "license": "MIT",
   "dependencies": {
     "iconv-lite": "^0.4.7",
