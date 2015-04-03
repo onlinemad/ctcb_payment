@@ -1,0 +1,21 @@
+{
+  "name": "ctbc_payment",
+  "version": "0.0.1",
+  "description": "中國信託網路交易介接工具箱",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ian Wu",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.7",
+    "lodash": "^3.6.0",
+    "querystring": "^0.2.0"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1",
+    "should": "^5.2.0"
+  }
+}
