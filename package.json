@@ -1,6 +1,6 @@
 {
   "name": "ctbc_payment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "中國信託網路交易介接工具箱",
   "main": "index.js",
   "scripts": {
